@@ -60,15 +60,11 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 <p align="center">
   <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="500"/>
+  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="500"/>
 </p>
 
 - 38.76% of Auralean’s customer base is Bronze-tier—the largest customer segment across all tiers (Bronze, Silver, Gold, Platinum)—followed by Silver (26.96%) and Gold (19.44%).
 - 4.80% of the customers had no tier, indicating that the majority of Auralean’s customers are not solely one-time buyers—rather, they demonstrate somewhat high commitment through repeat purchases.
-
-<p align="center">
-  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="500"/>
-</p>
-
 - The Platinum-tier customers have the highest mean spend of $272.02, but they also demonstrate high variance in purchase patterns. This reinforces plausible volatility in revenue predictability from Platinum-tier customers.
 - Likewise, although Bronze-tier customers show relatively high median and mean spending, their spread is comparable to that of the Platinum tier, underscoring the need to achieve stability across Bronze- and Platinum-tier customers’ spending patterns in particular.
 - Notable outlier in the Silver-tier group is observed (e.g. $2209.94), signifying a potentially less-recognised VIP customer(s) who could be candidates for upselling.

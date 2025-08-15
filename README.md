@@ -37,14 +37,10 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 <p align="center">
   <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="500"/>
-</p>
-
-- Email campaigns generated the highest conversion rate of 46.1% across all campaign channels, with top performers being Campaign ID 14 (14.37%), ID 20 (14.37%), and ID 30 (14.97%).
-
-<p align="center">
   <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="500"/>
 </p>
 
+- Email campaigns generated the highest conversion rate of 46.1% across all campaign channels, with top performers being Campaign ID 14 (14.37%), ID 20 (14.37%), and ID 30 (14.97%).
 - Average conversion rates by channel reflect Email at 12.04%, SMS at 11.44%, and App at 10.56%.
 - App campaigns record the lowest overall conversion rate (24.3% of total channel conversions), but the widespread distribution of high performers, such as Campaign ID 22 (13.75%) and low performers, such as Campaign ID 11 (7.10%), suggests unutilised potential if campaign volume is scaled.
 - Each channel strength differs: Email dominates in total conversion count, App shows an efficient conversion count-to-rate ratio, and SMS campaigns have a moderate-to-high balance between conversion count and conversion rate.
@@ -111,6 +107,6 @@ Based on the insights above, we would recommend Auralean Apparel’s Finance, Sa
 
 Throughout the analysis, several assumptions were made to address challenges within the dataset. The assumptions and caveats are noted below:
 
-- Assumption 1: Customers with “None” tier in the data were classified as “No Tier”, as no clear evidence was available to reassign them to other specific tiers.
-- Assumption 2: Outliers in the amount spent column below $40 were retained in the dataset without adjustment due to low magnitude significance (6 points). However, if more time and direct communication with the stakeholders are available, it may be insightful to analyse the cause of the outliers to increase high-value purchase count.
-- Assumption 3: The observed 0.00% conversion rate in the High-Frequency customer segment may be due to a small sample size. Additional data from this segment—especially from the RFM analysis—may be required for more accurate conclusion.
+- **Assumption 1**: Customers with “None” tier in the data were classified as “No Tier”, as no clear evidence was available to reassign them to other specific tiers.
+- **Assumption 2**: Outliers in the amount spent column below $40 were retained in the dataset without adjustment due to low magnitude significance (6 points). However, if more time and direct communication with the stakeholders are available, it may be insightful to analyse the cause of the outliers to increase high-value purchase count.
+- **Assumption 3**: The observed 0.00% conversion rate in the High-Frequency customer segment may be due to a small sample size. Additional data from this segment—especially from the RFM analysis—may be required for more accurate conclusion.

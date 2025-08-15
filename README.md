@@ -15,7 +15,7 @@ Insights and recommendations are provided on the following key areas:
 
 # Data Structure & Initial Checks
 
-Auralean\?s main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
+Auralean?s main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
 ![Auralean CRM Data Structure](charts/datastructure.png)
 

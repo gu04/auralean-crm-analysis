@@ -17,7 +17,9 @@ Insights and recommendations are provided on the following key areas:
 
 Auralean's main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
-![Auralean CRM Data Structure](charts/datastructure.png)
+<p align="center">
+  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="300"/>
+</p>
 
 # Executive Summary
 
@@ -25,7 +27,7 @@ Following its peak in 2021, Auralean Apparel has experienced a steady decline in
 
 ![YoY Auralean Apparel's Profit Trends](charts/profittrends.png)
 
-To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean\’s existing marketing channels and campaign strategies.
+To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies.
 
 # Insights Deep Dive
 

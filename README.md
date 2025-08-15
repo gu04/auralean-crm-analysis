@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 Auralean's main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
 <p align="left">
-  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="400"/>
+  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="600"/>
 </p>
 
 # Executive Summary
@@ -26,7 +26,7 @@ Auralean's main database structure, as presented below, consists of three tables
 Following its peak in 2021, Auralean Apparel has experienced a steady decline in profit over the past three years, despite maintaining stable annual revenue of approximately $3.9 million. As illustrated in the ‘YoY Auralean’s Profit Trends’ chart below, a constant rise in yearly marketing costs—an 8.98% increase in YoY annual marketing costs on average—with a small 0.17% decrease in annual sales can be deduced as one of the most critical causes behind this profit decline.
 
 <p align="center">
-  <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="400"/>
+  <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="600"/>
 </p>
 
 To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies.
@@ -36,13 +36,13 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 1. Marketing Channel Performance
 
 <p align="center">
-  <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="400"/>
+  <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="600"/>
 </p>
 
 - Email campaigns generated the highest conversion rate of 46.1% across all campaign channels, with top performers being Campaign ID 14 (14.37%), ID 20 (14.37%), and ID 30 (14.97%).
 
 <p align="center">
-  <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="400"/>
+  <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="600"/>
 </p>
 
 - Average conversion rates by channel reflect Email at 12.04%, SMS at 11.44%, and App at 10.56%.
@@ -52,7 +52,7 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 2. Customer Segmentation (RFM Analysis)
 
 <p align="center">
-  <img src="charts/rfm1.png" alt="RFM Analysis on Customer Segments' Conversion Rates" width="400"/>
+  <img src="charts/rfm1.png" alt="RFM Analysis on Customer Segments' Conversion Rates" width="600"/>
 </p>
 
 - Based on the customers’ last purchase date and repeated purchase records in the dataset, they were distributed accordingly into three Recency (Stale, Interm, Recent) and Frequency (Low, Mid, High) segments, respectively.
@@ -63,14 +63,14 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 3. Loyalty Tier Effectiveness
 
 <p align="center">
-  <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="400"/>
+  <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="600"/>
 </p>
 
 - 38.76% of Auralean’s customer base is Bronze-tier—the largest customer segment across all tiers (Bronze, Silver, Gold, Platinum)—followed by Silver (26.96%) and Gold (19.44%).
 - 4.80% of the customers had no tier, indicating that the majority of Auralean’s customers are not solely one-time buyers—rather, they demonstrate somewhat high commitment through repeat purchases.
 
 <p align="center">
-  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="400"/>
+  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="600"/>
 </p>
 
 - The Platinum-tier customers have the highest mean spend of $272.02, but they also demonstrate high variance in purchase patterns. This reinforces plausible volatility in revenue predictability from Platinum-tier customers.

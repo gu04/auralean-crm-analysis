@@ -33,23 +33,23 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 # Insights Deep Dive
 
-1. Marketing Channel Performance
+1. **Marketing Channel Performance**
 
 <p align="center">
-  <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="600"/>
+  <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="500"/>
 </p>
 
 - Email campaigns generated the highest conversion rate of 46.1% across all campaign channels, with top performers being Campaign ID 14 (14.37%), ID 20 (14.37%), and ID 30 (14.97%).
 
 <p align="center">
-  <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="600"/>
+  <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="500"/>
 </p>
 
 - Average conversion rates by channel reflect Email at 12.04%, SMS at 11.44%, and App at 10.56%.
 - App campaigns record the lowest overall conversion rate (24.3% of total channel conversions), but the widespread distribution of high performers, such as Campaign ID 22 (13.75%) and low performers, such as Campaign ID 11 (7.10%), suggests unutilised potential if campaign volume is scaled.
 - Each channel strength differs: Email dominates in total conversion count, App shows an efficient conversion count-to-rate ratio, and SMS campaigns have a moderate-to-high balance between conversion count and conversion rate.
 
-2. Customer Segmentation (RFM Analysis)
+2. **Customer Segmentation (RFM Analysis)**
 
 <p align="center">
   <img src="charts/rfm1.png" alt="RFM Analysis on Customer Segments' Conversion Rates" width="600"/>
@@ -60,17 +60,17 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 - The High-Frequency segment recorded 0.00% conversions, denoting possible campaign fatigue and limited responsiveness to additional promotions among Auralean’s most active customer base.
 - Unlike prior hypotheses and expectations, the Low-Frequency segment maintained stable conversion rates across all recency groups (33.33%, 35.77%, 30.90%). This implies that the Lower-Frequency consumer segment still holds potential, especially as Auralean’s seasonal or occasional buyers who could be reactivated with targeted marketing measures.
 
-3. Loyalty Tier Effectiveness
+3. **Loyalty Tier Effectiveness**
 
 <p align="center">
-  <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="600"/>
+  <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="500"/>
 </p>
 
 - 38.76% of Auralean’s customer base is Bronze-tier—the largest customer segment across all tiers (Bronze, Silver, Gold, Platinum)—followed by Silver (26.96%) and Gold (19.44%).
 - 4.80% of the customers had no tier, indicating that the majority of Auralean’s customers are not solely one-time buyers—rather, they demonstrate somewhat high commitment through repeat purchases.
 
 <p align="center">
-  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="600"/>
+  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="500"/>
 </p>
 
 - The Platinum-tier customers have the highest mean spend of $272.02, but they also demonstrate high variance in purchase patterns. This reinforces plausible volatility in revenue predictability from Platinum-tier customers.

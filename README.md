@@ -17,15 +17,17 @@ Insights and recommendations are provided on the following key areas:
 
 Auralean's main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
-<p align="center">
-  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="300"/>
+<p align="left">
+  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="400"/>
 </p>
 
 # Executive Summary
 
 Following its peak in 2021, Auralean Apparel has experienced a steady decline in profit over the past three years, despite maintaining stable annual revenue of approximately $3.9 million. As illustrated in the ‘YoY Auralean’s Profit Trends’ chart below, a constant rise in yearly marketing costs—an 8.98% increase in YoY annual marketing costs on average—with a small 0.17% decrease in annual sales can be deduced as one of the most critical causes behind this profit decline.
 
-![YoY Auralean Apparel's Profit Trends](charts/profittrends.png)
+<p align="center">
+  <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="400"/>
+</p>
 
 To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies.
 
@@ -33,11 +35,15 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 1. Marketing Channel Performance
 
-![Conversion Count of Top-Performing Campaigns by Channel](charts/conversion1.png)
+<p align="center">
+  <img src="charts/conversion1.png" alt="Conversion Count of Top-Performing Campaigns by Channel" width="400"/>
+</p>
 
 - Email campaigns generated the highest conversion rate of 46.1% across all campaign channels, with top performers being Campaign ID 14 (14.37%), ID 20 (14.37%), and ID 30 (14.97%).
 
-![Conversion Count vs. Conversion Rate across Channels](charts/conversion2.png)
+<p align="center">
+  <img src="charts/conversion2.png" alt="Conversion Count vs. Conversion Rate across Channels" width="400"/>
+</p>
 
 - Average conversion rates by channel reflect Email at 12.04%, SMS at 11.44%, and App at 10.56%.
 - App campaigns record the lowest overall conversion rate (24.3% of total channel conversions), but the widespread distribution of high performers, such as Campaign ID 22 (13.75%) and low performers, such as Campaign ID 11 (7.10%), suggests unutilised potential if campaign volume is scaled.
@@ -45,7 +51,9 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 2. Customer Segmentation (RFM Analysis)
 
-![RFM Analysis on Customer Segments' Conversion Rates](charts/rfm1.png)
+<p align="center">
+  <img src="charts/rfm1.png" alt="RFM Analysis on Customer Segments' Conversion Rates" width="400"/>
+</p>
 
 - Based on the customers’ last purchase date and repeated purchase records in the dataset, they were distributed accordingly into three Recency (Stale, Interm, Recent) and Frequency (Low, Mid, High) segments, respectively.
 - Customers in the Intermediate Recency + Mid-Frequency segment achieved the highest conversion rate, at 37.65%, indicating that strong campaign responsiveness does not necessarily correlate with a higher recent purchase frequency.
@@ -54,12 +62,16 @@ To tackle this declining performance, it is crucial to analyse key metrics, part
 
 3. Loyalty Tier Effectiveness
 
-![Number of customers per Loyalty tier](charts/tier1.png)
+<p align="center">
+  <img src="charts/tier1.png" alt="Number of customers per Loyalty tier" width="400"/>
+</p>
 
 - 38.76% of Auralean’s customer base is Bronze-tier—the largest customer segment across all tiers (Bronze, Silver, Gold, Platinum)—followed by Silver (26.96%) and Gold (19.44%).
 - 4.80% of the customers had no tier, indicating that the majority of Auralean’s customers are not solely one-time buyers—rather, they demonstrate somewhat high commitment through repeat purchases.
 
-![Consumer Spending Distribution by Loyalty tier](charts/tier2.png)
+<p align="center">
+  <img src="charts/tier2.png" alt="Consumer Spending Distribution by Loyalty tier" width="400"/>
+</p>
 
 - The Platinum-tier customers have the highest mean spend of $272.02, but they also demonstrate high variance in purchase patterns. This reinforces plausible volatility in revenue predictability from Platinum-tier customers.
 - Likewise, although Bronze-tier customers show relatively high median and mean spending, their spread is comparable to that of the Platinum tier, underscoring the need to achieve stability across Bronze- and Platinum-tier customers’ spending patterns in particular.

@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 Auralean's main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
 <p align="left">
-  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="600"/>
+  <img src="charts/datastructure.png" alt="Auralean CRM Data Structure" width="500"/>
 </p>
 
 # Executive Summary
@@ -26,7 +26,7 @@ Auralean's main database structure, as presented below, consists of three tables
 Following its peak in 2021, Auralean Apparel has experienced a steady decline in profit over the past three years, despite maintaining stable annual revenue of approximately $3.9 million. As illustrated in the ‘YoY Auralean’s Profit Trends’ chart below, a constant rise in yearly marketing costs—an 8.98% increase in YoY annual marketing costs on average—with a small 0.17% decrease in annual sales can be deduced as one of the most critical causes behind this profit decline.
 
 <p align="center">
-  <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="600"/>
+  <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="500"/>
 </p>
 
 To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies.

@@ -6,13 +6,13 @@ Over the years, Auralean has accumulated extensive data on customers, their purc
 
 Insights and recommendations are provided on the following key areas:
 
-- Marketing Channel Performance
+- **Marketing Channel Performance**
 
   Evaluation on campaign conversion efficiency and ROI (Return on Investment) across App, Email, and SMS marketing channels, identifying top- and under-performing campaigns for targeted investment and financial optimisation.
-- Customer Segmentation (RFM)
+- **Customer Segmentation (RFM)**
 
   Analysis of Recency, Frequency, and Monetary areas to determine customer profiles that generate the highest conversion count, suggesting strategies to raise customer retention, reactivation, and upselling.
-- Loyalty Tier Effectiveness
+- **Loyalty Tier Effectiveness**
 
   Assessment of customer spending behaviours, conversion rates, and customer base distribution across the company’s loyal tiers (Bronze, Silver, Gold, Platinum) to enhance tier benefits and encourage tier progressions.
 
@@ -26,13 +26,13 @@ Auralean's main database structure, as presented below, consists of three tables
 
 # Executive Summary
 
-Following its peak in 2021, Auralean Apparel has experienced a steady decline in profit over the past three years, despite maintaining stable annual revenue of approximately $3.9 million. As illustrated in the ‘YoY Auralean’s Profit Trends’ chart below, a constant rise in yearly marketing costs—an 8.98% increase in YoY annual marketing costs on average—with a small 0.17% decrease in annual sales can be deduced as one of the most critical causes behind this profit decline.
+Following its peak in 2021, Auralean Apparel has experienced a steady decline in profit over the past three years, despite maintaining stable annual revenue of approximately $3.9 million. As illustrated in the ‘YoY Auralean’s Profit Trends’ chart below, a constant rise in yearly marketing costs—an average of 8.98% increase—with a small 0.17% decrease in annual sales can be deduced as one of the most critical causes behind this profit decline.
 
 <p align="center">
   <img src="charts/profittrends.png" alt="YoY Auralean Apparel's Profit Trends" width="500"/>
 </p>
 
-To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies.
+To tackle this declining performance, it is crucial to analyse key metrics, particularly regarding customer engagement, such as AOV, customer retention rate, conversion rate, and ROI, and refine Auralean's existing marketing channels and campaign strategies accordingly.
 
 # Insights Deep Dive
 
@@ -81,15 +81,15 @@ Based on the insights above, we would recommend Auralean Apparel’s Finance, Sa
 - With the highest conversion rate (46.1%) and volume share (43.3%), the Email channel delivers the strongest ROI. **Shifting a larger share of the marketing budget toward Email campaigns and maintaining them as stable revenue drivers while reassessing underperforming App campaigns** would ensure cost efficiency.
 - App has the lowest marketing cost ($0.005/unit) and competitive conversion rates in some campaigns (e.g. Campaign ID 22), indicating App campaigns’ possible high efficiency. Hence, **test-scaled investment in high-efficiency App campaigns** is recommended if ROI remains strong.
 - **Redirect investment budget from low-yield High-Frequency customers** with near-zero conversions across recency segments. **Reallocate budget toward Intermediate-Recency + Mid-Frequency customer segments** with the highest observed conversion rate (37.65%).
-- Focus on increasing the lifetime value of Bronze-tier customers who account for 39% of the customer base but yield lower lifetime value and high variance in purchase behaviours, by **quantifying ROI opportunity from Bronze to Silver+ upgrades, and investing in tier-upgrade initiatives** (e.g. clear loyalty advantages for higher tiers) for long-term revenue growth.
+- Focus on increasing the lifetime value of Bronze-tier customers who account for 38.76% of the customer base but yield lower lifetime value and high variance in purchase behaviours, by **quantifying ROI opportunity from Bronze to Silver+ upgrades, and investing in tier-upgrade initiatives** (e.g. clear loyalty advantages for higher tiers) for long-term revenue growth.
 - **Build financial models to predict incremental revenue from Platinum-tier customers’ spend stabilisation and set profitability targets** before the marketing team implements retention measures to maintain Platinum customers’ high average spending ($272.05).
 
 ## Sales Team
 
 - **Maintain high-performing Email campaigns as the primary source for immediate conversion activities**, as they show the highest conversion rate (46.1%) and campaign count (13).
 - **Target under-engaged yet responsive segments** (e.g. Low-Frequency customers with >30% conversion rate) through **personalised offers, seasonal promotions, and reminder-based follow-ups** to increase overall incremental sales.
-- With 46.4% of Auralean’s customer base as Silver and Gold tiers, focusing on increasing garment sales among these tier groups through **incentive-based promotions with tier upgrades** can reinforce upselling.
-- **Identify Platinum-tier customers with lower spend and target their tier through promoting VIP advantages**, as they have showcased large spread in spending patterns along with Bronze-tier customers.
+- With 46.4% of Auralean’s customer base in Silver and Gold tiers, focusing on increasing garment sales among these tier groups through **incentive-based promotions with tier upgrades** can reinforce upselling.
+- **Identify Platinum-tier customers with lower spend and target their tier through promoting VIP advantages**, as they have showcased a large spread in spending patterns along with Bronze-tier customers.
 
 ## Marketing Team
 
@@ -108,4 +108,4 @@ Throughout the analysis, several assumptions were made to address challenges wit
 
 - **Assumption 1**: Customers with “None” tier in the data were classified as “No Tier”, as no clear evidence was available to reassign them to other specific tiers.
 - **Assumption 2**: Outliers in the amount spent column below $40 were retained in the dataset without adjustment due to low magnitude significance (6 points). However, if more time and direct communication with the stakeholders are available, it may be insightful to analyse the cause of the outliers to increase high-value purchase count.
-- **Assumption 3**: The observed 0.00% conversion rate in the High-Frequency customer segment may be due to a small sample size. Additional data from this segment—especially from the RFM analysis—may be required for more accurate conclusion.
+- **Assumption 3**: The observed 0.00% conversion rate in the High-Frequency customer segment may be due to a small sample size. Additional data from this segment—especially from the RFM analysis—may be required for a more accurate conclusion.

@@ -8,7 +8,7 @@ Insights and recommendations are provided on the following key areas:
 
 - Marketing Channel Performance
   Evaluation on campaign conversion efficiency and ROI (Return on Investment) across App, Email, and SMS marketing channels, identifying top- and under-performing campaigns for targeted investment and financial optimisation.
-- Customer Segmentation (RFM Analysis)
+- Customer Segmentation (RFM)
   Analysis of Recency, Frequency, and Monetary areas to determine customer profiles that generate the highest conversion count, suggesting strategies to raise customer retention, reactivation, and upselling.
 - Loyalty Tier Effectiveness
   Assessment of customer spending behaviours, conversion rates, and customer base distribution across the company’s loyal tiers (Bronze, Silver, Gold, Platinum) to enhance tier benefits and encourage tier progressions.

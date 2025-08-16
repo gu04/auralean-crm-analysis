@@ -16,7 +16,7 @@ Insights and recommendations are provided on the following key areas:
 
   Assessment of customer spending behaviours, conversion rates, and customer base distribution across the company’s loyal tiers (Bronze, Silver, Gold, Platinum) to enhance tier benefits and encourage tier progressions.
 
-# Data Structure & Initial Checks
+# Data Structure and Initial Checks
 
 Auralean's main database structure, as presented below, consists of three tables: customers, campaigns, and transactions, with a total row count of 20,030 records.
 
